@@ -22,12 +22,21 @@ Standard data-driven segmentation models (like U-Net or DeepLab) often struggle 
 You can use this bib file:
 ---
 @article{ding2026physical,
+
   title={Physical Regularization Loss: Integrating Physical Knowledge to Image Segmentation},
+  
   author={Ding, Yan and Li, Shuang and Li, Huafeng and Qi, Guanqiu and Cong, Baisen and Gong, Yunpeng and Zhu, Zhiqin},
+  
   journal={International Journal of Computer Vision},
+
   volume={134},
+  
   number={3},
+  
   pages={137},
+  
   year={2026},
+  
   publisher={Springer}
+  
 }
